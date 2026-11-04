@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**couti2026-bit/couti2026-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src= "banner.png"
+     alt="Banner surrealista representando arte, educação e tecnologia"
+     width="100%">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">✦ Olá, eu sou Piedra Pollo! ✦</h1>
+
+<h3 align="center">
+  Desenvolvedora em formação | Arte • Educação • Tecnologia
+</h3>
+
+<p align="center">
+  Explorando possibilidades entre criatividade, conhecimento e inovação.
+</p>
+
+Estudante do Curso Técnico em Informática no **CEET Vasco Coutinho** (2º Módulo), com formação prévia em **Arte e Pedagogia**. Acredito no poder da tecnologia unida à sensibilidade humana e educacional para criar soluções acessíveis e funcionais.
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python (Básico), C# (Básico)
+- **Front-End:** HTML5, CSS3, JavaScript (Básico)
+- **Banco de Dados:** SQL
+- **Produtividade & IA:** Pacote Office e uso estratégico de **Inteligência Artificial Generativa** no desenvolvimento de projetos acadêmicos.
+- **Idiomas:** Inglês (Intermediário com foco em Inglês Técnico)
+- **Soft Skills:** Oratória, Comunicação Interpessoal, Visão Pedagógica
+
+---
+📫 **Vamos nos conectar?**
+- E-mail: couti2026@gmail.com
+
